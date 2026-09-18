@@ -1,0 +1,9 @@
+class student:
+  name = input("Name")
+  rollno = input("ROLLno")
+  marks = input("MARKS")
+s=student()
+print(s.name)
+print(s.rollno)
+print(s.marks)
+
